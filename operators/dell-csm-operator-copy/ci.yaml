@@ -1,3 +1,4 @@
 ---
 fbc:
   enabled: true
+  version_promotion_strategy: always
