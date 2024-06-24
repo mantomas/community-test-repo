@@ -1,6 +1,7 @@
 ---
 reviewers:
   - mantomas
+  - allda
 fbc:
   enabled: true
   version_promotion_strategy: review-needed
